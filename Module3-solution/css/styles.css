@@ -1,0 +1,25 @@
+#header-nav{
+background-color: #de5200;
+
+}
+.navbar-brand{
+  color: #fff;
+  font-size: 1.8em;
+}
+
+body {
+	font-size:  16px;
+	color: #fff;
+	background-color: #3f414a;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#title-content{
+  margin-top: 15px;
+}
+
+.jumbotron{
+  background-color: #ff9d2d;
+  padding-top: 20px;
+}
+
